@@ -1,2 +1,2 @@
-# programming-assignment-2
+# Programming Assignment No. 2
 LINEAR REGRESSION
